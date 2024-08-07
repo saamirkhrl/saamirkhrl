@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samirkharel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samirkharel_" height="30" width="40" /></a>
+<a href="https://twitter.com/samirkharel_" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png)" alt="samirkharel_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26608111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26608111" height="30" width="40" /></a>
 <a href="https://instagram.com/ayymansamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayymansamir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thesamirkharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesamirkharel" height="30" width="40" /></a>
