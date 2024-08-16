@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I love programming and making cool projects on the web! I mainly program in Flask and React but also use other web frameworks/libraries. Let's connect! 🌱💻</h6>
+<h4 align="left">I love programming and making cool projects on the web! I mainly program in Flask and React but also use other web frameworks/libraries. Let's connect! 🌱💻</h4>
 <hr/>
 
 ###
