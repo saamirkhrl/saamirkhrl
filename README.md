@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I love programming and making cool projects on the web! I mainly program in Flask and React but also use other web frameworks/libraries. Let's connect! 🌱💻</p>
+<h6 align="left">I love programming and making cool projects on the web! I mainly program in Flask and React but also use other web frameworks/libraries. Let's connect! 🌱💻</h6>
 <hr/>
 
 ###
@@ -33,6 +33,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
 </div>
+<hr/>
 
 ###
 
@@ -50,7 +51,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   </a>
   <br/>
-  <img src="https://camo.githubusercontent.com/b75d5207685559f5ab54c580d7c0c1615f68d5c3320068d65a840552bc8e2c82/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361616d69726b68726c266c6162656c3d546f74616c253230766965777326636f6c6f723d306537356236267374796c653d666c6174" width="75" height="25" alt="total views"  />
+  <hr/>
+  <img src="https://camo.githubusercontent.com/b75d5207685559f5ab54c580d7c0c1615f68d5c3320068d65a840552bc8e2c82/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361616d69726b68726c266c6162656c3d546f74616c253230766965777326636f6c6f723d306537356236267374796c653d666c6174" width="100" height="25" alt="total views"  />
 </div>
 
 ###
