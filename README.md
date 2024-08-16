@@ -2,13 +2,13 @@
 
 ###
 
-<h4 align="left">I love programming and making cool projects on the web! I mainly program in Flask and React but also use other web frameworks/libraries. Let's connect! 🌱💻</h4>
+<p align="left">I love programming and making cool projects on the web! I mainly program in Flask and React but also use other web frameworks/libraries. Let's connect! 🌱💻</p>
+<hr/>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saamirkhrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=saamirkhrl&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=57&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saamirkhrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -50,9 +50,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/saamirkhrl/saamirkhrl/output/snake.svg" alt="Snake animation" />
 
 ###
