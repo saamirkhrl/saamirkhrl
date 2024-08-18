@@ -12,7 +12,7 @@ Hey! My name is Samir, and I am a passionate web developer doing full stack. I p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saamirkhrl&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saamirkhrl&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=saamirkhrl&label=Views&base=0)
+![](https://komarev.com/ghpvc/?username=saamirkhrl&label=Views)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/samirkharelthebest) 
