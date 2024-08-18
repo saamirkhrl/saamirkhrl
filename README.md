@@ -12,8 +12,7 @@ Hey! My name is Samir, and I am a passionate web developer doing full stack. I p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saamirkhrl&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saamirkhrl&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![]([https://visitcount.itsvg.in/api?id=saamirkhrl&icon=0&color=0](https://camo.githubusercontent.com/b75d5207685559f5ab54c580d7c0c1615f68d5c3320068d65a840552bc8e2c82/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361616d69726b68726c266c6162656c3d546f74616c253230766965777326636f6c6f723d306537356236267374796c653d666c6174))](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=saamirkhrl&label=Views)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/samirkharelthebest) 
