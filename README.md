@@ -14,8 +14,5 @@ Hey! My name is Samir, and I am a passionate web developer doing full stack. I p
 
 ![](https://komarev.com/ghpvc/?username=saamirkhrl&label=Views)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/samirkharelthebest) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
