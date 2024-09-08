@@ -1,4 +1,4 @@
-# 💫 About Me:
+ddddddddddddddddddd# 💫 About Me:
 Hey! My name is Samir, and I am a passionate web developer doing full stack. I program in React and Flask, alongside other frameworks and libraries. I started programming when I was 10 and have loved it ever since. I love creating meaningful apps.
 
 
