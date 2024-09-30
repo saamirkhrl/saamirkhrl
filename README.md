@@ -3,4 +3,4 @@
 <h4>If you need to contact me, use my X (Twitter) messages.</h4>
 </br>
 </br>
-![](https://komarev.com/ghpvc/?username=saamirkhrl&label=Views)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saamirkhrl&label=Total%20views&color=0e75b6&style=flat" alt="saamirkhrl" /> </p>
