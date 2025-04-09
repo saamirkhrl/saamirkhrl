@@ -2,7 +2,7 @@
 
 ### 💻 15-year-old developer who builds clean, fast, and creative web projects.
 
-I work with **JavaScript**, **Lua**, and **Python**, and build using **React**, **Node.js**, **Tailwind CSS**, and **SQL**. I enjoy learning new tech and applying it to real-world projects. Always looking to push the boundaries of what I can create.
+<p style="font-size: 18px;">I work with <strong>JavaScript</strong>, <strong>Lua</strong>, and <strong>Python</strong>, and build using <strong>React</strong>, <strong>Node.js</strong>, <strong>Tailwind CSS</strong>, and <strong>SQL</strong>. I enjoy learning new tech and applying it to real-world projects. Always looking to push the boundaries of what I can create.</p>
 
 - 🌐 [samirkharel.com](https://www.samirkharel.com)
 - ✉️ [samir.kharel66@gmail.com](mailto:samir.kharel66@gmail.com)
