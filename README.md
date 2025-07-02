@@ -2,6 +2,9 @@
 
 ### 🚀 15-year-old software engineer with a passion for web development, AI, and changing lives through code. Let's connect!
 
+- 🌐 Check out my work at [samirkharel.com](https://www.samirkharel.com)  
+- ✉️ Reach me at [samir.kharel66@gmail.com](mailto:samir.kharel66@gmail.com)  
+
 ### 💻 skills
 - 🍵 Java — < 1 year
 - 🐍 Python — 5+ years
@@ -13,6 +16,3 @@
 - 🔥 Flask — 4+ years
 - 🗄️ Databases (SQL/NoSQL) — 4+ years
 - 🧰 Git/GitHub
-
-- 🌐 Check out my work at [samirkharel.com](https://www.samirkharel.com)  
-- ✉️ Reach me at [samir.kharel66@gmail.com](mailto:samir.kharel66@gmail.com)  
