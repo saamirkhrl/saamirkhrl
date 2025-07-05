@@ -14,5 +14,5 @@
 - 🟢 NodeJS — 3+ years
 - 🧩 ExpressJS — 3+ years
 - 🔥 Flask — 4+ years
-- 🗄️ Databases (SQL/NoSQL) — 4+ years
+- 🗄️ Databases (PostgreSQL, MongoDB, etc) — 4+ years
 - 🧰 Git/GitHub
