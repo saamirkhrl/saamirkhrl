@@ -5,4 +5,5 @@
 - 🌐 Check out my work at [samirkharel.com](https://www.samirkharel.com)  
 - ✉️ Reach me at [samir.kharel66@gmail.com](mailto:samir.kharel66@gmail.com)  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,flask,py)](https://skillicons.dev)
+# skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,flask,python)](https://skillicons.dev)
