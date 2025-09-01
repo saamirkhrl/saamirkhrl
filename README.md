@@ -6,4 +6,4 @@
 - ✉️ Reach me at [samir.kharel66@gmail.com](mailto:samir.kharel66@gmail.com)  
 
 # skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,flask,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,flask,python,tailwind)](https://skillicons.dev)
