@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Samir Kharel!
 
-### 🚀 16-year-old software engineer with a passion for web development, AI, and changing lives through code. Let's connect!
-
 - ▶️ Subscribe to my [YouTube channel!](https://www.youtube.com/@thesamirkharel)
 - 🌐 Check out my work at [samirkharel.com](https://www.samirkharel.com)  
 - ✉️ Reach me at [samir.kharel66@gmail.com](mailto:samir.kharel66@gmail.com)  
