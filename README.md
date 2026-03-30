@@ -7,5 +7,7 @@
 # skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,lua,html,css,react,express,next,flask,nodejs,tailwind,bootstrap,robloxstudio,mongodb,blender,git,figma,supabase,firebase)](https://skillicons.dev)
 
+<!--
 # stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=saamirkhrl&theme=dark)](https://git.io/streak-stats)
+-->
